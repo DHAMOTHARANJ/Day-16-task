@@ -1,7 +1,7 @@
 const log = (a) => console.log(a)
 let timer = document.createElement('div')
 timer.style='padding-top:50px'
-timer.style= 'text-shadow: 12px -24px 30px black'
+timer.style= 'text-shadow: 12px -24px 30px white'
 
 
 document.body.append(timer)
